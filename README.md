@@ -45,9 +45,3 @@ Explore a curated collection of project management mind maps:
 - [Unified Project Management Suite](https://mindmapai.app/mind-map/unified-project-management-suite-4b8e147b)
 - [Work Breakdown Structure (WBS)](https://mindmapai.app/mind-map/work-breakdown-structure-wbs-48b6357a)
 
-
-## License
-
-[![License: CC0-1.0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, the author has waived all copyrights and related or neighboring rights to this work.
