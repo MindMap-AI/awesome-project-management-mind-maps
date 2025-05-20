@@ -1,4 +1,4 @@
-# Awesome Project Management Mind Maps
+# Awesome Project Management Mind Maps [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Explore a curated collection of project management mind maps:
 
